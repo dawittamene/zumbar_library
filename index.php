@@ -22,7 +22,6 @@
 	    <ul class="navbar-nav mr-auto">
 	    
 		  <li class="nav-item">
-			
 		  </li>
 		  <li class="nav-item">
 			<a class="nav-link " href="#" ><span>H</span>ome</a>
