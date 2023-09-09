@@ -76,9 +76,10 @@ if(!isset($_SESSION['user_name'])){
 		<div class="col-lg-2">
         <img class="thumbnail" src="images/placeholder.png">
 			<div class="box-element product">
-				<h6><strong>Product</strong></h6>
+			
+				<h6><strong>Producttttt</strong></h6>
 				<hr>
-				<center><a class="btn btn-outline-success" href="#"><button><i class="fa fa-download"></i> Download</button></a></center>
+				<center><a class="btn btn-outline-success" href="book/Grade12Amharic.pdf"><button><i class="fa fa-download"></i> Download</button></a></center>
 
 			</div>
 		</div>
