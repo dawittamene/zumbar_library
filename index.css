@@ -41,7 +41,12 @@ ul li{
 	margin-right: 100px;
 }
 
+#log{
+   border-bottom: 2px solid red;
+   color: white;
+   background-color: black;
 
+}
 
 #cart-icon{
 	width:25px;
